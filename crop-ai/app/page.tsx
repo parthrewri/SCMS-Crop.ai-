@@ -54,7 +54,7 @@ export default function Home() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">
-                Our advanced image recognition system can identify over 38 different crop diseases with 97.5% accuracy,
+                Our advanced image recognition system can identify over 38 different crop diseases ,
                 helping you take action before it's too late.
               </p>
             </CardContent>
